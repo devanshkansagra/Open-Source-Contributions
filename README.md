@@ -20,7 +20,7 @@
        
   - ### Fuselage
       - **Pull Requests***
-        - [#1412](https://github.com/RocketChat/EmbeddedChat/pull/1412) (Open)
+        - [#1412](https://github.com/RocketChat/fuselage/pull/1412) (Open)
 
 ## 2. Neutralinojs 
   - ### neutralinojs.github.io
