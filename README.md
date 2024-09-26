@@ -6,7 +6,7 @@
         - [#615](https://github.com/RocketChat/EmbeddedChat/pull/615) (Merged)
         - [#600](https://github.com/RocketChat/EmbeddedChat/pull/600) (Merged)
         - [#598](https://github.com/RocketChat/EmbeddedChat/pull/598) (Merged)
-        - [#624](https://github.com/RocketChat/EmbeddedChat/pull/624) (Open)
+        - [#624](https://github.com/RocketChat/EmbeddedChat/pull/624) (Merged)
         - [#620](https://github.com/RocketChat/EmbeddedChat/pull/620) (Open)
         - [#605](https://github.com/RocketChat/EmbeddedChat/pull/605) (Open)
         - [#448](https://github.com/RocketChat/EmbeddedChat/pull/448) (Open) *
