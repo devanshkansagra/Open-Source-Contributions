@@ -9,8 +9,8 @@
         - [#624](https://github.com/RocketChat/EmbeddedChat/pull/624) : Fix: emoji parsing issue in file description **(Merged)**
         - [#638](https://github.com/RocketChat/EmbeddedChat/pull/638) : Added Feature to deploy previews of pull requests **(Merged)**
         - [#637](https://github.com/RocketChat/EmbeddedChat/pull/637) : Combine build steps for react, ui-elements, and layout_editor packages **(Merged)**
-        - [#605](https://github.com/RocketChat/EmbeddedChat/pull/605) : Fixed UI Inconsistencies while quoting messages **(Closed)** *
-        - [#448](https://github.com/RocketChat/EmbeddedChat/pull/448) : Fixed the issue of appearence of pinned messages when pinning it with emojis **(Closed)** 
+        - [#605](https://github.com/RocketChat/EmbeddedChat/pull/605) : Fixed UI Inconsistencies while quoting messages **(Closed)** 
+        - [#448](https://github.com/RocketChat/EmbeddedChat/pull/448) : Fixed the issue of appearence of pinned messages when pinning it with emojis **(Closed)** *
         - [#380](https://github.com/RocketChat/EmbeddedChat/pull/380) : Fixed Issue: #369 **(Closed)** *
         - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
 
