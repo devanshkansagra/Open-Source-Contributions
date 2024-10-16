@@ -3,11 +3,11 @@
 ## 1. Rocket Chat
   - ### Embedded Chat
       - **Pull Requests**
+        - [#638](https://github.com/RocketChat/EmbeddedChat/pull/638) : Added Feature to deploy previews of pull requests **(Merged)**
         - [#615](https://github.com/RocketChat/EmbeddedChat/pull/615) : FEAT: Added support to deploy monorepos to github pages **(Merged)**
         - [#600](https://github.com/RocketChat/EmbeddedChat/pull/600) : Fix: unwanted close call in ChatBody.js **(Merged)**
         - [#598](https://github.com/RocketChat/EmbeddedChat/pull/598) : Fix: read only channels to work the same for all users **(Merged)**
         - [#624](https://github.com/RocketChat/EmbeddedChat/pull/624) : Fix: emoji parsing issue in file description **(Merged)**
-        - [#638](https://github.com/RocketChat/EmbeddedChat/pull/638) : Added Feature to deploy previews of pull requests **(Merged)**
         - [#637](https://github.com/RocketChat/EmbeddedChat/pull/637) : Combine build steps for react, ui-elements, and layout_editor packages **(Merged)**
         - [#605](https://github.com/RocketChat/EmbeddedChat/pull/605) : Fixed UI Inconsistencies while quoting messages **(Closed)** 
         - [#448](https://github.com/RocketChat/EmbeddedChat/pull/448) : Fixed the issue of appearence of pinned messages when pinning it with emojis **(Closed)** *
