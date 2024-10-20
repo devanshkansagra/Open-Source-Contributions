@@ -1,4 +1,4 @@
-# Open-Source-Contributions
+<h1 align="center">Open-Source-Contributions</h1>
 
 ## 1. Rocket Chat
   - ### Embedded Chat
