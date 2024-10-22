@@ -23,6 +23,7 @@
       - **Pull Requests**
         - [#1412](https://github.com/RocketChat/fuselage/pull/1412) : fix: ensure hovered option gets un-hovered properly **(Open)**
         - [#1465](https://github.com/RocketChat/fuselage/pull/1465) : fix: issue of unable to select and unselect the items **(Open)**
+        - [#1469](https://github.com/RocketChat/fuselage/pull/1469) : resolved the issue of validating telephone number **(Open)**
 
 ## 2. Neutralinojs 
   - ### neutralinojs.github.io
