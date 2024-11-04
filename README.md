@@ -9,7 +9,7 @@
         - [#598](https://github.com/RocketChat/EmbeddedChat/pull/598) : Fix: read only channels to work the same for all users **(Merged)**
         - [#624](https://github.com/RocketChat/EmbeddedChat/pull/624) : Fix: emoji parsing issue in file description **(Merged)**
         - [#637](https://github.com/RocketChat/EmbeddedChat/pull/637) : Combine build steps for react, ui-elements, and layout_editor packages **(Merged)**
-        - [#641](https://github.com/RocketChat/EmbeddedChat/pull/641) : Fix: Quoting issues **(Draft)** 
+        - [#641](https://github.com/RocketChat/EmbeddedChat/pull/641) : Fix: Quoting issues **(Open)** 
         - [#448](https://github.com/RocketChat/EmbeddedChat/pull/448) : Fixed the issue of appearence of pinned messages when pinning it with emojis **(Closed)** *
         - [#380](https://github.com/RocketChat/EmbeddedChat/pull/380) : Fixed Issue: #369 **(Closed)** *
         - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
