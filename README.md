@@ -3,7 +3,7 @@
 ## 1. Rocket Chat
   - ### Embedded Chat
       - **Pull Requests**
-        - [#676](https://github.com/RocketChat/EmbeddedChat/pull/660) : Fix quote markdown **(Open)**
+        - [#676](https://github.com/RocketChat/EmbeddedChat/pull/676) : Fix quote markdown **(Open)**
         - [#660](https://github.com/RocketChat/EmbeddedChat/pull/660) : Added a validation check for pr approval in the deploy-pr workflow **(Open)**
         - [#641](https://github.com/RocketChat/EmbeddedChat/pull/641) : Fix: Quoting issues **(Open)** 
         - [#638](https://github.com/RocketChat/EmbeddedChat/pull/638) : Added Feature to deploy previews of pull requests **(Merged)**
