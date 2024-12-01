@@ -3,6 +3,7 @@
 ## 1. Rocket Chat
   - ### Embedded Chat
       - **Pull Requests**
+        - [#676](https://github.com/RocketChat/EmbeddedChat/pull/660) : Fix quote markdown **(Open)**
         - [#660](https://github.com/RocketChat/EmbeddedChat/pull/660) : Added a validation check for pr approval in the deploy-pr workflow **(Open)**
         - [#641](https://github.com/RocketChat/EmbeddedChat/pull/641) : Fix: Quoting issues **(Open)** 
         - [#638](https://github.com/RocketChat/EmbeddedChat/pull/638) : Added Feature to deploy previews of pull requests **(Merged)**
@@ -16,6 +17,7 @@
         - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
 
       - **Issues**
+        - [#675](https://github.com/RocketChat/EmbeddedChat/issues/675) : Bug: Quote Markdown is not rendering properly **(Open)**
         - [#640](https://github.com/RocketChat/EmbeddedChat/issues/640) : Bug: Message quoting issues **(Open)**
         - [#623](https://github.com/RocketChat/EmbeddedChat/issues/623) : Bug: Unable to parse emojis in file description in attachment preview **(Closed)**
         - [#622](https://github.com/RocketChat/EmbeddedChat/issues/622) : Bug: Unable to mention users when mentioning in the file description **(Open)**
