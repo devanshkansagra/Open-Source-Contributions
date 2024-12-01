@@ -3,6 +3,7 @@
 ## 1. Rocket Chat
   - ### Embedded Chat
       - **Pull Requests**
+        - [#677](https://github.com/RocketChat/EmbeddedChat/pull/677) : Fix the issue of mentioning the user in the file description **(Open)**
         - [#676](https://github.com/RocketChat/EmbeddedChat/pull/676) : Fix quote markdown **(Open)**
         - [#660](https://github.com/RocketChat/EmbeddedChat/pull/660) : Added a validation check for pr approval in the deploy-pr workflow **(Open)**
         - [#641](https://github.com/RocketChat/EmbeddedChat/pull/641) : Fix: Quoting issues **(Open)** 
