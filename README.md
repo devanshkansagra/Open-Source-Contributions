@@ -3,7 +3,7 @@
 ## 1. Rocket Chat
 - ### Embedded Chat
 - **Pull Requests**
-- [#710](https://github.com/RocketChat/EmbeddedChat/pull/710) : Added a feature to copy messages and copy link in message tool box  **(Open)**
+- [#710](https://github.com/RocketChat/EmbeddedChat/pull/710) : Added a feature to copy messages and copy link in message tool box  **(Merged)**
 - [#677](https://github.com/RocketChat/EmbeddedChat/pull/677) : Fix the issue of mentioning the user in the file description **(Open)**
 - [#676](https://github.com/RocketChat/EmbeddedChat/pull/676) : Fix quote markdown **(Open)**
 - [#660](https://github.com/RocketChat/EmbeddedChat/pull/660) : Added a validation check for pr approval in the deploy-pr workflow **(Open)**
@@ -19,9 +19,9 @@
 - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
 
 - **Issues**
-- [#709](https://github.com/RocketChat/EmbeddedChat/issues/709) : Feat: Add copy message and copy link feature **(Open)**
+- [#709](https://github.com/RocketChat/EmbeddedChat/issues/709) : Feat: Add copy message and copy link feature **(Closed)**
 - [#675](https://github.com/RocketChat/EmbeddedChat/issues/675) : Bug: Quote Markdown is not rendering properly **(Open)**
-- [#640](https://github.com/RocketChat/EmbeddedChat/issues/640) : Bug: Message quoting issues **(Open)**
+- [#640](https://github.com/RocketChat/EmbeddedChat/issues/640) : Bug: Message quoting issues **(Closed)**
 - [#623](https://github.com/RocketChat/EmbeddedChat/issues/623) : Bug: Unable to parse emojis in file description in attachment preview **(Closed)**
 - [#622](https://github.com/RocketChat/EmbeddedChat/issues/622) : Bug: Unable to mention users when mentioning in the file description **(Open)**
 - [#617](https://github.com/RocketChat/EmbeddedChat/issues/617) : [Feat] : Deploy PR Previews to GitHub Pages **(Closed)**
