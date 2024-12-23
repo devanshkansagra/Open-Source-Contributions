@@ -19,6 +19,7 @@
 - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
 
 - **Issues**
+- [#720](https://github.com/RocketChat/EmbeddedChat/issues/709) : Feat: Add Disscussions **(Open)**
 - [#709](https://github.com/RocketChat/EmbeddedChat/issues/709) : Feat: Add copy message and copy link feature **(Closed)**
 - [#675](https://github.com/RocketChat/EmbeddedChat/issues/675) : Bug: Quote Markdown is not rendering properly **(Open)**
 - [#640](https://github.com/RocketChat/EmbeddedChat/issues/640) : Bug: Message quoting issues **(Closed)**
