@@ -33,6 +33,10 @@
 - [#1465](https://github.com/RocketChat/fuselage/pull/1465) : fix: issue of unable to select and unselect the items **(Open)**
 - [#1469](https://github.com/RocketChat/fuselage/pull/1469) : fix: resolved the issue of validating telephone number **(Open)**
 
+- ### Apps.Github22
+- **Issues***
+- [#148](https://github.com/RocketChat/Apps.Github22/issues/148) : Bug: Filtering of details of Share profile is not working  **(Open)**
+
 ## 2. Neutralinojs 
 - ### neutralinojs.github.io
 - **Pull Requests**
