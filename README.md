@@ -20,6 +20,7 @@
   - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
 
 - **Issues**
+  - [#778](https://github.com/RocketChat/EmbeddedChat/issues/778) : Bug: Error Caught: "Cannot read the properties of undefined" in EmbeddedChat due to latest stable release of RocketChat server **(Open)**
   - [#720](https://github.com/RocketChat/EmbeddedChat/issues/720) : Feat: Add Disscussions **(Open)**
   - [#709](https://github.com/RocketChat/EmbeddedChat/issues/709) : Feat: Add copy message and copy link feature **(Closed)**
   - [#675](https://github.com/RocketChat/EmbeddedChat/issues/675) : Bug: Quote Markdown is not rendering properly **(Open)**
@@ -27,6 +28,7 @@
   - [#623](https://github.com/RocketChat/EmbeddedChat/issues/623) : Bug: Unable to parse emojis in file description in attachment preview **(Closed)**
   - [#622](https://github.com/RocketChat/EmbeddedChat/issues/622) : Bug: Unable to mention users when mentioning in the file description **(Open)**
   - [#617](https://github.com/RocketChat/EmbeddedChat/issues/617) : [Feat] : Deploy PR Previews to GitHub Pages **(Closed)**
+  
 
 - ### Fuselage
   
