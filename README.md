@@ -26,7 +26,7 @@
   - [#675](https://github.com/RocketChat/EmbeddedChat/issues/675) : Bug: Quote Markdown is not rendering properly **(Open)**
   - [#640](https://github.com/RocketChat/EmbeddedChat/issues/640) : Bug: Message quoting issues **(Closed)**
   - [#623](https://github.com/RocketChat/EmbeddedChat/issues/623) : Bug: Unable to parse emojis in file description in attachment preview **(Closed)**
-  - [#622](https://github.com/RocketChat/EmbeddedChat/issues/622) : Bug: Unable to mention users when mentioning in the file description **(Open)**
+  - [#622](https://github.com/RocketChat/EmbeddedChat/issues/622) : Bug: Unable to mention users when mentioning in the file description **(closed)**
   - [#617](https://github.com/RocketChat/EmbeddedChat/issues/617) : [Feat] : Deploy PR Previews to GitHub Pages **(Closed)**
   
 
