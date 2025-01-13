@@ -4,6 +4,7 @@
 - ### Embedded Chat
   
 - **Pull Requests**
+  - [#886](https://github.com/RocketChat/EmbeddedChat/pull/886) : Added new changesets **(Open)**
   - [#710](https://github.com/RocketChat/EmbeddedChat/pull/710) : Added a feature to copy messages and copy link in message tool box  **(Merged)**
   - [#677](https://github.com/RocketChat/EmbeddedChat/pull/677) : Fix the issue of mentioning the user in the file description **(Merged)**
   - [#676](https://github.com/RocketChat/EmbeddedChat/pull/676) : Fix quote markdown **(Open)**
@@ -41,6 +42,7 @@
   
 - **Pull Requests**
   - [#149](https://github.com/RocketChat/Apps.Github22/pull/149) : Fix issue of filtering the properties while sharing profile **(Open)**
+  - [#150](https://github.com/RocketChat/Apps.Github22/pull/150) : Chore: Update Modals to SurfaceView **(Open)**
     
 - **Issues**
   - [#148](https://github.com/RocketChat/Apps.Github22/issues/148) : Bug: Filtering of details of Share profile is not working  **(Open)**
