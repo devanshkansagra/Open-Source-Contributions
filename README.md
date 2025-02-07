@@ -46,6 +46,11 @@
     
 - **Issues**
   - [#148](https://github.com/RocketChat/Apps.Github22/issues/148) : Bug: Filtering of details of Share profile is not working  **(Open)**
+ 
+- ### Apps.Notion
+
+- **Issues**
+  - [#81](https://github.com/RocketChat/Apps.Notion/issues/81) : [Bug] Unable to connect Notion Workspace properly **(Open)**
 
 ## 2. Neutralinojs 
 - ### neutralinojs.github.io
