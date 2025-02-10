@@ -49,6 +49,9 @@
  
 - ### Apps.Notion
 
+- **Pull Requests**
+  - [#82](https://github.com/RocketChat/Apps.Notion/pull/82) : Fix: Unable to connect Notion Workspace properly **(Open)**
+
 - **Issues**
   - [#81](https://github.com/RocketChat/Apps.Notion/issues/81) : [Bug] Unable to connect Notion Workspace properly **(Open)**
 
