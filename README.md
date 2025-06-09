@@ -21,6 +21,7 @@
   - [#377](https://github.com/RocketChat/EmbeddedChat/pull/377) : Fixed issue: #350 **(Closed)** *
 
 - **Issues**
+  - [#1008](https://github.com/RocketChat/EmbeddedChat/issues/1008) : Bug: Encountered CORS Error even if the CORS is enabled on the RocketChat server **(Open)**
   - [#778](https://github.com/RocketChat/EmbeddedChat/issues/778) : Bug: Error Caught: "Cannot read the properties of undefined" in EmbeddedChat due to latest stable release of RocketChat server **(Open)**
   - [#720](https://github.com/RocketChat/EmbeddedChat/issues/720) : Feat: Add Disscussions **(Open)**
   - [#709](https://github.com/RocketChat/EmbeddedChat/issues/709) : Feat: Add copy message and copy link feature **(Closed)**
