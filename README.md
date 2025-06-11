@@ -4,6 +4,7 @@
 - ### Embedded Chat
   
 - **Pull Requests**
+  - [#1009](https://github.com/RocketChat/EmbeddedChat/pull/1009) : chore(migration): Migrating from RocketChat SDK to DDPSDK #1009 **(Open)**
   - [#886](https://github.com/RocketChat/EmbeddedChat/pull/886) : Added new changesets **(Merged)**
   - [#710](https://github.com/RocketChat/EmbeddedChat/pull/710) : Added a feature to copy messages and copy link in message tool box  **(Merged)**
   - [#677](https://github.com/RocketChat/EmbeddedChat/pull/677) : Fix the issue of mentioning the user in the file description **(Merged)**
