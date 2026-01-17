@@ -1,6 +1,10 @@
 <h1 align="center">Open-Source-Contributions</h1>
 
-## 1. Rocket Chat
+## 1. Async API
+- ### Generator
+  - [#1830](https://github.com/asyncapi/generator/pull/1830) : test: enabled caching for deterministic test tasks **(Open)**
+
+## 2. Rocket Chat
 - ### Embedded Chat
   
 - **Pull Requests**
