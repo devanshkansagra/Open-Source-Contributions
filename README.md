@@ -2,6 +2,7 @@
 
 ## 1. Async API
 - ### Generator
+- **Pull Requests**
   - [#1830](https://github.com/asyncapi/generator/pull/1830) : test: enabled caching for deterministic test tasks **(Open)**
 
 ## 2. Rocket Chat
