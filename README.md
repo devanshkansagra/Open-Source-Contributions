@@ -1,9 +1,11 @@
 <h1 align="center">Open-Source-Contributions</h1>
 
-## 1. Async API
-- ### Generator
+## 1. Neutralinojs 
+- ### neutralinojs.github.io
+  
 - **Pull Requests**
-  - [#1830](https://github.com/asyncapi/generator/pull/1830) : test: enabled caching for deterministic test tasks **(Open)**
+  - [#292](https://github.com/neutralinojs/neutralinojs.github.io/pull/292) : Update README.md **(Merged)**
+  - [#291](https://github.com/neutralinojs/neutralinojs.github.io/pull/291) : Removed my custom css names and used Docusaurus css classes **(Merged)**
 
 ## 2. Rocket Chat
 - ### Embedded Chat
@@ -63,11 +65,9 @@
 - **Issues**
   - [#81](https://github.com/RocketChat/Apps.Notion/issues/81) : [Bug] Unable to connect Notion Workspace properly **(Open)**
 
-## 2. Neutralinojs 
-- ### neutralinojs.github.io
-  
+## 3. Async API
+- ### Generator
 - **Pull Requests**
-  - [#292](https://github.com/neutralinojs/neutralinojs.github.io/pull/292) : Update README.md **(Merged)**
-  - [#291](https://github.com/neutralinojs/neutralinojs.github.io/pull/291) : Removed my custom css names and used Docusaurus css classes **(Merged)**
+  - [#1830](https://github.com/asyncapi/generator/pull/1830) : test: enabled caching for deterministic test tasks **(Open)**
 
 ( * ) Indicates the first pull request raised and solved the issue, but due to inactivity, another PR was later raised by someone and got merged.
