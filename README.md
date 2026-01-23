@@ -69,6 +69,6 @@
 ## 3. Async API
 - ### Generator
 - **Pull Requests**
-  - [#1830](https://github.com/asyncapi/generator/pull/1830) : test: enabled caching for deterministic test tasks ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#1830](https://github.com/asyncapi/generator/pull/1830) : test: enabled caching for deterministic test tasks ![Closed](https://img.shields.io/badge/CLOSED-d73a49?logo=git&logoColor=white&labelColor=d73a49)
 
 ( * ) Indicates the first pull request raised and solved the issue, but due to inactivity, another PR was later raised by someone and got merged.
