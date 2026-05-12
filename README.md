@@ -8,7 +8,8 @@
   - [#291](https://github.com/neutralinojs/neutralinojs.github.io/pull/291) : Removed my custom css names and used Docusaurus css classes ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
 ## 2. Rocket Chat
 
-- ### Apps.Jira
+- ### Apps.Jira (Google Summer of Code 2026)
+- **Pull Requests**
   - [#1](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/1) : Initialized RocketChat App ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
 - ### Embedded Chat
   
