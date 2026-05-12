@@ -7,6 +7,9 @@
   - [#292](https://github.com/neutralinojs/neutralinojs.github.io/pull/292) : Update README.md ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#291](https://github.com/neutralinojs/neutralinojs.github.io/pull/291) : Removed my custom css names and used Docusaurus css classes ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
 ## 2. Rocket Chat
+
+- ### Apps.Jira
+  - [#1](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/1) : Initialized RocketChat App ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
 - ### Embedded Chat
   
 - **Pull Requests**
