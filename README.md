@@ -11,6 +11,10 @@
 - ### Apps.Jira (Google Summer of Code 2026)
 - **Pull Requests**
   - [#1](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/1) : Initialized RocketChat App ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#3](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/3) : Implemented helpers functions and added settings ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+
+- **Issues**
+  - [#2](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/2) : [FEAT] Create utility methods and app settings ![Issue Open](https://img.shields.io/badge/ISSUE_OPEN-2ea44f?logo=github&logoColor=white&labelColor=2ea44f)
 - ### Embedded Chat
   
 - **Pull Requests**
