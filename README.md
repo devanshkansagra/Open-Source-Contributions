@@ -11,10 +11,20 @@
 - ### Apps.Jira (Google Summer of Code 2026)
 - **Pull Requests**
   - [#1](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/1) : Initialized RocketChat App ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
-  - [#3](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/3) : Implemented helpers functions and added settings ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#3](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/3) : Implemented helpers functions and added settings ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#5](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/5) : feat: Implemented Slash Commands ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#7](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/7) : feat: Implemented login system using Jira OAuth 2.0 (3LO) ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#9](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/9) : feat: Allow creating Jira issues directly from Rocket.Chat ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#11](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/11) : feat: Add feature to assign issues in Jira via Rocket.Chat ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#13](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/13) : feat: Add feature to link a Jira project with RocketChat channel ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#15](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/15) : feat: Add feature to share issues to channel and users ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#18](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/18) : feat: added feature to update issue details ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#19](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/19) : refactor: extract Jira API request helpers into httpMethods ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
 
 - **Issues**
-  - [#2](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/2) : [FEAT] Create utility methods and app settings ![Issue Open](https://img.shields.io/badge/ISSUE_OPEN-2ea44f?logo=github&logoColor=white&labelColor=2ea44f)
+  - [#2](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/2) : [FEAT] Create utility methods and app settings ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-d73a49?logo=github&logoColor=white&labelColor=d73a49)
+  - [#4](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/4) : [FEAT] Implement Slash commands ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-d73a49?logo=github&logoColor=white&labelColor=d73a49)
+  - [#6](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/6) : [FEAT] Implement OAuth using Jira OAuth 2.0 (3LO) ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-d73a49?logo=github&logoColor=white&labelColor=d73a49)
 - ### Embedded Chat
   
 - **Pull Requests**
