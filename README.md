@@ -22,9 +22,19 @@
   - [#19](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/19) : refactor: extract Jira API request helpers into httpMethods ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
 
 - **Issues**
-  - [#2](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/2) : [FEAT] Create utility methods and app settings ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-d73a49?logo=github&logoColor=white&labelColor=d73a49)
-  - [#4](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/4) : [FEAT] Implement Slash commands ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-d73a49?logo=github&logoColor=white&labelColor=d73a49)
-  - [#6](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/6) : [FEAT] Implement OAuth using Jira OAuth 2.0 (3LO) ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-d73a49?logo=github&logoColor=white&labelColor=d73a49)
+  - [#2](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/2) : [FEAT] Create utility methods and app settings ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#4](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/4) : [FEAT] Implement Slash commands ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#6](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/6) : [FEAT] Implement OAuth using Jira OAuth 2.0 (3LO) ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#8](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/8) : [FEAT] Create Issues from Rocket.Chat ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#10](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/10) : [FEAT] Allow users to assign issues to other users in Jira via Rocket.Chat ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#12](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/12) : [FEAT] Map Rocket.Chat channels with Jira project using /connect command ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#14](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/14) : [FEAT] Allow users to share Jira Tickets to channels and users ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
+  - [#17](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/17) : [FEAT] Allow users to modify issue details from Rocket.Chat
+ ![Issue Open](https://img.shields.io/badge/ISSUE_OPEN-2ea44f?logo=github&logoColor=white&labelColor=2ea44f)
+  - [#20](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/20) : [FEAT] Add support for viewing Jira issue details ![Issue Open](https://img.shields.io/badge/ISSUE_OPEN-2ea44f?logo=github&logoColor=white&labelColor=2ea44f)
+  - 
+
+ 
 - ### Embedded Chat
   
 - **Pull Requests**
