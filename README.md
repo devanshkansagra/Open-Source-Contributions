@@ -18,8 +18,14 @@
   - [#11](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/11) : feat: Add feature to assign issues in Jira via Rocket.Chat ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#13](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/13) : feat: Add feature to link a Jira project with RocketChat channel ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#15](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/15) : feat: Add feature to share issues to channel and users ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
-  - [#18](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/18) : feat: added feature to update issue details ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#18](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/18) : feat: added feature to update issue details ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#19](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/19) : refactor: extract Jira API request helpers into httpMethods ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#23](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/23) : feat: Display direct message when app is installed and added docs ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#24](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/24) : feat: Add comments to issues
+![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#25](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/25) : feat: share issues through UI
+ ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  
 
 - **Issues**
   - [#2](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/issues/2) : [FEAT] Create utility methods and app settings ![Issue Closed](https://img.shields.io/badge/ISSUE_CLOSED-9e1fed?logo=github&logoColor=white&labelColor=9e1fed)
