@@ -20,11 +20,13 @@
   - [#15](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/15) : feat: Add feature to share issues to channel and users ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#18](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/18) : feat: added feature to update issue details ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#19](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/19) : refactor: extract Jira API request helpers into httpMethods ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
-  - [#23](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/23) : feat: Display direct message when app is installed and added docs ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+  - [#23](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/23) : feat: Display direct message when app is installed and added docs ![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#24](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/24) : feat: Add comments to issues
-![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
   - [#25](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pulls/25) : feat: share issues through UI
- ![Open](https://img.shields.io/badge/OPEN-2ea44f?logo=git&logoColor=white&labelColor=2ea44f)
+![Merged](https://img.shields.io/badge/MERGED-9e1fed?logo=git&logoColor=white&labelColor=9e1fed)
+  - [#26](https://github.com/RocketChat/JiraIntegrationApp_GSoC2026/pull/26) : feat: added quick actions in the message
+  ![Draft](https://img.shields.io/badge/DRAFT-6e7681?logo=git&logoColor=white&labelColor=6e7681)
   
 
 - **Issues**
